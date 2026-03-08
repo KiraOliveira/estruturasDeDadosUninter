@@ -44,10 +44,8 @@ Ao abrir o Terminal clicar em F5 ou em Play e seguir o menu de cada programa:
 # Triagem Hospitalar
 listaEncadeada.py
 
-
 # Tabela Hash
 tabelaHash.py
-
 
 ```
 
@@ -56,5 +54,8 @@ tabelaHash.py
 ## Execução dos testes
 
 - Triagem Hospitalar
+<img width="393" height="158" alt="menuHospital" src="https://github.com/user-attachments/assets/2517fb17-2c49-4dee-9ffa-ba6d7198199d" />
 
 - Tabela Hash
+<img width="393" height="158" alt="tabelaHash" src="https://github.com/user-attachments/assets/ff48fd6f-0420-4584-8972-7da8b13a6a21" />
+
